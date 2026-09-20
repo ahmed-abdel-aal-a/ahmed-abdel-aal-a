@@ -30,7 +30,7 @@
 
 ## 🧭 Executive Summary & Leadership Vision
 
-As the **Founder & CEO of Apex Agency**, I lead strategic engineering initiatives and enterprise architectural design across the MENA region. My technical doctrine bridges executive business strategy with rigorous systems engineering—designing resilient, zero-failure digital infrastructures that power healthcare networks, multi-national logistics fleets, high-concurrency wholesale commerce, and automated industrial pipelines.
+As the **Founder & CEO of Apex Agency**, I lead strategic engineering initiatives and enterprise architectural design across the MENA region. My technical doctrine bridges executive business strategy with rigorous systems engineering—designing resilient, zero-failure digital ecosystems, high-throughput distributed networks, and intelligent mission-critical platforms that drive institutional scalability.
 
 ### Key Architectural Tenets:
 - **Domain-Driven Design (DDD) & Clean Modularity:** Decoupled business capabilities ensuring decades of maintainability without technical debt.
@@ -44,10 +44,13 @@ As the **Founder & CEO of Apex Agency**, I lead strategic engineering initiative
 
 | Repository | Focus Industry | Core Technologies & Highlights | Public Specification |
 | :--- | :--- | :--- | :---: |
-| **[enterprise-dental-clinical-erp](https://github.com/ahmed-abdel-aal-a/enterprise-dental-clinical-erp)** | Healthcare & Clinical ERP | Nuxt 3 SPA, Python 3.11 FastAPI (asyncpg), PostgreSQL 16, AI Clinical Copilot, Interactive SVG Odontogram, Dual-Engine Native Edge Deployment (<130MB RAM). | [View Spec](https://github.com/ahmed-abdel-aal-a/enterprise-dental-clinical-erp) |
 | **[apex-logistics-fleet-engine](https://github.com/ahmed-abdel-aal-a/apex-logistics-fleet-engine)** | Supply Chain & Fleet Telemetry | Flutter Cross-Platform Driver App, Laravel 11 + Filament Operations Center, Real-Time Laravel Reverb WebSockets, Sub-100ms Driver Telemetry, Next.js Portals. | [View Spec](https://github.com/ahmed-abdel-aal-a/apex-logistics-fleet-engine) |
-| **[enterprise-web2print-ai-platform](https://github.com/ahmed-abdel-aal-a/enterprise-web2print-ai-platform)** | Industrial Web-to-Print | Next.js 14 App Router, Tailwind CSS, Framer Motion, Google Gemini Vision API for automated prepress artwork validation, dynamic die-cut estimation. | [View Spec](https://github.com/ahmed-abdel-aal-a/enterprise-web2print-ai-platform) |
+| **[enterprise-dental-clinical-erp](https://github.com/ahmed-abdel-aal-a/enterprise-dental-clinical-erp)** | Healthcare & Clinical ERP | Nuxt 3 SPA, Python 3.11 FastAPI (asyncpg), PostgreSQL 16, AI Clinical Copilot, Interactive SVG Odontogram, Dual-Engine Native Edge Deployment (<130MB RAM). | [View Spec](https://github.com/ahmed-abdel-aal-a/enterprise-dental-clinical-erp) |
 | **[high-throughput-b2b-trading-engine](https://github.com/ahmed-abdel-aal-a/high-throughput-b2b-trading-engine)** | Wholesale B2B Commerce | Laravel 11, Filament Admin, Multi-Tier Dynamic B2B Wholesale Pricing Engine, Decoupled Redis Queue Workers, Live Reverb WebSocket Stock Feeds. | [View Spec](https://github.com/ahmed-abdel-aal-a/high-throughput-b2b-trading-engine) |
+| **[enterprise-web2print-ai-platform](https://github.com/ahmed-abdel-aal-a/enterprise-web2print-ai-platform)** | Industrial Web-to-Print | Next.js 14 App Router, Tailwind CSS, Framer Motion, Google Gemini Vision API for automated prepress artwork validation, dynamic die-cut estimation. | [View Spec](https://github.com/ahmed-abdel-aal-a/enterprise-web2print-ai-platform) |
+| **[omnichannel-fashion-retail-engine](https://github.com/ahmed-abdel-aal-a/omnichannel-fashion-retail-engine)** | Omnichannel Fashion Retail | Next.js 15 / React 19, Tailwind CSS, Gemini AI Fashion Stylist, PWA Offline-First Shopping, Micro-Batch Inventory Sync. | [View Spec](https://github.com/ahmed-abdel-aal-a/omnichannel-fashion-retail-engine) |
+| **[multi-tenant-edtech-ai-platform](https://github.com/ahmed-abdel-aal-a/multi-tenant-edtech-ai-platform)** | Multi-Tenant EdTech & AI Tutoring | Next.js, Supabase Row-Level Security (RLS), pgvector Semantic RAG Search, AI Copilot for Personalized Exam Prep & Grading. | [View Spec](https://github.com/ahmed-abdel-aal-a/multi-tenant-edtech-ai-platform) |
+| **[enterprise-expense-analytics-engine](https://github.com/ahmed-abdel-aal-a/enterprise-expense-analytics-engine)** | Corporate Expense & Financial Analytics | React 18, Vite, Multi-Currency Real-Time FX Normalization (SAR/EGP/AED/USD), GCC VAT Audit Automation, CFO Cashflow Intelligence. | [View Spec](https://github.com/ahmed-abdel-aal-a/enterprise-expense-analytics-engine) |
 
 > *All repositories contain comprehensive architectural blueprints, Domain-Driven Design (DDD) boundaries, sequence workflows, and performance benchmarks. Proprietary client identifiers and sensitive algorithms have been anonymized in compliance with institutional NDAs.*
 
