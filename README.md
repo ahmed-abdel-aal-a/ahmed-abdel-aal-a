@@ -106,12 +106,12 @@ As the **Founder & CEO of Apex Agency**, I lead strategic engineering initiative
 
 <div align="center">
 
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ahmed-abdel-aal-a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=10b981&text_color=94a3b8" alt="Eng. Ahmed Abdel-Aal GitHub Stats" width="48%">
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ahmed-abdel-aal-a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=10b981&text_color=94a3b8&include_all_commits=true&count_private=true" alt="Eng. Ahmed Abdel-Aal GitHub Stats" width="48%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-abdel-aal-a&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=10b981&currStreakLabel=38bdf8" alt="GitHub Streak" width="48%">
 
 <br/>
 
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ahmed-abdel-aal-a&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="60%">
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ahmed-abdel-aal-a&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&hide=html,css,jupyter-notebook,shell,jinja&langs_count=8" alt="Top Languages" width="60%">
 
 </div>
 
