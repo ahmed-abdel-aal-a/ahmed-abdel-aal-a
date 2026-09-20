@@ -21,7 +21,7 @@
 ```
 
 <p align="center">
-  <b>Architecting Mission-Critical Enterprise ERPs, High-Scale E-Commerce Platforms, Distributed Backends, and AI-Augmented Ecosystems across Saudi Arabia, the GCC, and Egypt.</b>
+  <b>Engineering Visionary Digital Ecosystems, Resilient Cloud Infrastructure, and Mission-Critical Enterprise Solutions across Saudi Arabia, the GCC, and Egypt.</b>
 </p>
 
 </div>
