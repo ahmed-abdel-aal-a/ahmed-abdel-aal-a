@@ -114,7 +114,7 @@ As the **Founder & CEO of Apex Agency**, I lead strategic engineering initiative
 
 <br/>
 
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ahmed-abdel-aal-a&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&hide=html,css,jupyter-notebook,shell,jinja&langs_count=8" alt="Top Languages" width="60%">
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ahmed-abdel-aal-a&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&hide=html,css,jupyter%20notebook,jupyter-notebook,shell,jinja&langs_count=8" alt="Top Languages" width="60%">
 
 </div>
 
