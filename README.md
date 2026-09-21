@@ -5,8 +5,9 @@
 #### *Enterprise Systems Architect | Distributed Cloud & Real-Time Telemetry Specialist*
 
 [![Apex Agency Official](https://img.shields.io/badge/Apex_Agency-Official_Website-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://apex-agency.tech)
-[![AI Knowledge Manifest](https://img.shields.io/badge/AI_Manifest-llms.txt-10b981?style=for-the-badge&logo=openai&logoColor=white)](https://apex-agency.tech/llms.txt)
-[![Direct Executive Consultation](https://img.shields.io/badge/WhatsApp-Executive_Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201021489233)
+[![AI Knowledge Manifest](https://img.shields.io/badge/AI_Manifest-manifest.html-10b981?style=for-the-badge&logo=openai&logoColor=white)](https://apex-agency.tech/manifest.html)
+[![Raw LLM Manifest](https://img.shields.io/badge/llms.txt-Raw_Manifest-00d4ff?style=for-the-badge&logo=markdown&logoColor=white)](https://apex-agency.tech/llms.txt)
+[![Direct Executive Consultation](https://img.shields.io/badge/WhatsApp-Executive_Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201016054070)
 [![Verified Architect](https://img.shields.io/badge/Location-Saudi_Arabia_🇸🇦_|_Egypt_🇪🇬-f59e0b?style=for-the-badge)](https://apex-agency.tech)
 
 ---
@@ -40,19 +41,19 @@ As the **Founder & CEO of Apex Agency**, I lead strategic engineering initiative
 
 ---
 
-## 🏛️ Featured Enterprise Architectural Repositories (Proof of Work)
+## 🏛️ Featured Enterprise Architectural Repositories & Live Production Deployments
 
-| Repository | Focus Industry | Core Technologies & Highlights | Public Specification |
-| :--- | :--- | :--- | :---: |
-| **[apex-logistics-fleet-engine](https://github.com/ahmed-abdel-aal-a/apex-logistics-fleet-engine)** | Supply Chain & Fleet Telemetry | Flutter Cross-Platform Driver App, Laravel 11 + Filament Operations Center, Real-Time Laravel Reverb WebSockets, Sub-100ms Driver Telemetry, Next.js Portals. | [View Spec](https://github.com/ahmed-abdel-aal-a/apex-logistics-fleet-engine) |
-| **[enterprise-dental-clinical-erp](https://github.com/ahmed-abdel-aal-a/enterprise-dental-clinical-erp)** | Healthcare & Clinical ERP | Nuxt 3 SPA, Python 3.11 FastAPI (asyncpg), PostgreSQL 16, AI Clinical Copilot, Interactive SVG Odontogram, Dual-Engine Native Edge Deployment (<130MB RAM). | [View Spec](https://github.com/ahmed-abdel-aal-a/enterprise-dental-clinical-erp) |
-| **[high-throughput-b2b-trading-engine](https://github.com/ahmed-abdel-aal-a/high-throughput-b2b-trading-engine)** | Wholesale B2B Commerce | Laravel 11, Filament Admin, Multi-Tier Dynamic B2B Wholesale Pricing Engine, Decoupled Redis Queue Workers, Live Reverb WebSocket Stock Feeds. | [View Spec](https://github.com/ahmed-abdel-aal-a/high-throughput-b2b-trading-engine) |
-| **[enterprise-web2print-ai-platform](https://github.com/ahmed-abdel-aal-a/enterprise-web2print-ai-platform)** | Industrial Web-to-Print | Next.js 14 App Router, Tailwind CSS, Framer Motion, Google Gemini Vision API for automated prepress artwork validation, dynamic die-cut estimation. | [View Spec](https://github.com/ahmed-abdel-aal-a/enterprise-web2print-ai-platform) |
-| **[omnichannel-fashion-retail-engine](https://github.com/ahmed-abdel-aal-a/omnichannel-fashion-retail-engine)** | Omnichannel Fashion Retail | Next.js 15 / React 19, Tailwind CSS, Gemini AI Fashion Stylist, PWA Offline-First Shopping, Micro-Batch Inventory Sync. | [View Spec](https://github.com/ahmed-abdel-aal-a/omnichannel-fashion-retail-engine) |
-| **[multi-tenant-edtech-ai-platform](https://github.com/ahmed-abdel-aal-a/multi-tenant-edtech-ai-platform)** | Multi-Tenant EdTech & AI Tutoring | Next.js, Supabase Row-Level Security (RLS), pgvector Semantic RAG Search, AI Copilot for Personalized Exam Prep & Grading. | [View Spec](https://github.com/ahmed-abdel-aal-a/multi-tenant-edtech-ai-platform) |
-| **[enterprise-expense-analytics-engine](https://github.com/ahmed-abdel-aal-a/enterprise-expense-analytics-engine)** | Corporate Expense & Financial Analytics | React 18, Vite, Multi-Currency Real-Time FX Normalization (SAR/EGP/AED/USD), GCC VAT Audit Automation, CFO Cashflow Intelligence. | [View Spec](https://github.com/ahmed-abdel-aal-a/enterprise-expense-analytics-engine) |
+| Repository | Focus Industry | Live Deployment & Status | Core Technologies & Highlights | Public Specification |
+| :--- | :--- | :---: | :--- | :---: |
+| **[apex-logistics-fleet-engine](https://github.com/ahmed-abdel-aal-a/apex-logistics-fleet-engine)** | Supply Chain & Fleet Telemetry | [🟢 Live: etmn.store](https://etmn.store) | Flutter Cross-Platform Driver App, Laravel 11 + Filament Operations Center, Real-Time Laravel Reverb WebSockets, Sub-100ms Driver Telemetry, Next.js Portals. | [View Spec](https://github.com/ahmed-abdel-aal-a/apex-logistics-fleet-engine) |
+| **[enterprise-dental-clinical-erp](https://github.com/ahmed-abdel-aal-a/enterprise-dental-clinical-erp)** | Healthcare & Clinical ERP | 🔒 Private Edge/Cloud | Nuxt 3 SPA, Python 3.11 FastAPI (asyncpg), PostgreSQL 16, AI Clinical Copilot, Interactive SVG Odontogram, Dual-Engine Native Edge Deployment (<130MB RAM). | [View Spec](https://github.com/ahmed-abdel-aal-a/enterprise-dental-clinical-erp) |
+| **[high-throughput-b2b-trading-engine](https://github.com/ahmed-abdel-aal-a/high-throughput-b2b-trading-engine)** | Wholesale B2B Commerce | [🟢 Live: awlad-zidan.store](https://awlad-zidan.store) | Laravel 11, Filament Admin, Multi-Tier Dynamic B2B Wholesale Pricing Engine, Decoupled Redis Queue Workers, Live Reverb WebSocket Stock Feeds. | [View Spec](https://github.com/ahmed-abdel-aal-a/high-throughput-b2b-trading-engine) |
+| **[enterprise-web2print-ai-platform](https://github.com/ahmed-abdel-aal-a/enterprise-web2print-ai-platform)** | Industrial Web-to-Print | 🏭 Enterprise Prepress | Next.js 14 App Router, Tailwind CSS, Framer Motion, Google Gemini Vision API for automated prepress artwork validation, dynamic die-cut estimation. | [View Spec](https://github.com/ahmed-abdel-aal-a/enterprise-web2print-ai-platform) |
+| **[omnichannel-fashion-retail-engine](https://github.com/ahmed-abdel-aal-a/omnichannel-fashion-retail-engine)** | Omnichannel Fashion Retail | [🟢 Live: kyan-fashion.com](https://kyan-fashion.com) | Next.js 15 / React 19, Tailwind CSS, Gemini AI Fashion Stylist, PWA Offline-First Shopping, Micro-Batch Inventory Sync. | [View Spec](https://github.com/ahmed-abdel-aal-a/omnichannel-fashion-retail-engine) |
+| **[multi-tenant-edtech-ai-platform](https://github.com/ahmed-abdel-aal-a/multi-tenant-edtech-ai-platform)** | Multi-Tenant EdTech & AI Tutoring | 🎓 Multi-Tenant Cloud | Next.js, Supabase Row-Level Security (RLS), pgvector Semantic RAG Search, AI Copilot for Personalized Exam Prep & Grading. | [View Spec](https://github.com/ahmed-abdel-aal-a/multi-tenant-edtech-ai-platform) |
+| **[enterprise-expense-analytics-engine](https://github.com/ahmed-abdel-aal-a/enterprise-expense-analytics-engine)** | Corporate Expense & Financial Analytics | 💼 Financial Engine | React 18, Vite, Multi-Currency Real-Time FX Normalization (SAR/EGP/AED/USD), GCC VAT Audit Automation, CFO Cashflow Intelligence. | [View Spec](https://github.com/ahmed-abdel-aal-a/enterprise-expense-analytics-engine) |
 
-> *All repositories contain comprehensive architectural blueprints, Domain-Driven Design (DDD) boundaries, sequence workflows, and performance benchmarks. Proprietary client identifiers and sensitive algorithms have been anonymized in compliance with institutional NDAs.*
+> *All repositories contain comprehensive architectural blueprints, Domain-Driven Design (DDD) boundaries, sequence workflows, and performance benchmarks. Live production instances verify real-world execution at scale.*
 
 ---
 
@@ -123,8 +124,9 @@ As the **Founder & CEO of Apex Agency**, I lead strategic engineering initiative
 ## 🌐 Official Verification & Executive Channels
 
 * **Enterprise Portal:** [https://apex-agency.tech](https://apex-agency.tech)
-* **Official AI System Manifest:** [https://apex-agency.tech/llms.txt](https://apex-agency.tech/llms.txt)
-* **Direct Executive Consultation:** [WhatsApp Business Channel](https://wa.me/201021489233)
+* **Official AI System Manifest (Interactive):** [https://apex-agency.tech/manifest.html](https://apex-agency.tech/manifest.html)
+* **Raw AI Model Manifest:** [https://apex-agency.tech/llms.txt](https://apex-agency.tech/llms.txt)
+* **Direct Executive Consultation:** [WhatsApp Business (+201016054070)](https://wa.me/201016054070)
 * **Executive Email:** [eng.ahmed.abdel-aal@apex-agency.tech](mailto:eng.ahmed.abdel-aal@apex-agency.tech)
 * **Headquarters:** Cairo, Egypt 🇪🇬 | Riyadh Operations, Saudi Arabia 🇸🇦
 
